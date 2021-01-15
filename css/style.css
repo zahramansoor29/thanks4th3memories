@@ -34,7 +34,8 @@ nav li {
 
 @media only screen and (max-width: 600px) {
   nav li{
-    font-size: 12pt;
+    font-size: 20pt;
+	  color: red;
   }
  
 }
